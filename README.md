@@ -32,4 +32,4 @@ I'm **Lourenco DaSilva**, a passionate aspiring computer scientist focused on **
 
 Feel free to explore my repositories, and let's connect!
 
-[![Lourenco's GitHub stats](https://github-readme-stats.vercel.app/api?username=dslourenco22)](https://github.com/anuraghazra/github-readme-stats)
+[![Lourenco's GitHub stats](https://github-readme-stats.vercel.app/api?username=dslourenco22)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dslourenco22)](https://github.com/anuraghazra/github-readme-stats)
