@@ -24,7 +24,7 @@ I'm **Lourenco DaSilva**, a passionate aspiring computer scientist focused on **
 
 - 📫 How to reach me:
   - Email: [dasilvalourenco22@gmail.com](mailto:dasilvalourenco22@gmail.com)
-  - LinkedIn:[linkedin.com/in/dslourenco22](https://www.linkedin.com/in/lourenco-dasilva-b69986234/)
+  - LinkedIn: [linkedin.com/in/dslourenco22](https://www.linkedin.com/in/lourenco-dasilva-b69986234/)
   - GitHub: [github.com/dslourenco22](https://github.com/dslourenco22)
     
 - ⚡ Fun fact:
