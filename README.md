@@ -35,4 +35,4 @@ Feel free to explore my repositories, and let's connect!
 
 [![Lourenco's GitHub stats](https://github-readme-stats.vercel.app/api?username=dslourenco22)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dslourenco22)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src='https://wakatime.com/share/@dcfc9676-2b77-4473-b982-a2b8b40774ff/a5c0e007-2f62-4d91-bec9-aece5a96d987.svg' height = '350' width = '700'/> 
+<img src='https://wakatime.com/share/@dcfc9676-2b77-4473-b982-a2b8b40774ff/a5c0e007-2f62-4d91-bec9-aece5a96d987.svg' height = '350' width = '750'/> 
