@@ -20,7 +20,8 @@ I'm **Lourenco DaSilva**, a passionate aspiring computer scientist focused on **
 
 - 💬 Ask me about:
   - Cybersecurity best practices.
-  - My experiences in the **SoarCS Summer Program** and **River Hawk Racing Club**.
+  - Web Development with HTML.
+  - Real-World applications to projects.
 
 - 📫 How to reach me:
   - Email: [dasilvalourenco22@gmail.com](mailto:dasilvalourenco22@gmail.com)
