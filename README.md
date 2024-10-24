@@ -31,3 +31,5 @@ I'm **Lourenco DaSilva**, a passionate aspiring computer scientist focused on **
   - I'm fluent in **English**, **Portuguese**, and proficient in **Spanish**, allowing me to connect with a diverse range of people!
 
 Feel free to explore my repositories, and let's connect!
+
+[![Lourenco's GitHub stats](https://github-readme-stats.vercel.app/api?username=dslourenco22)](https://github.com/anuraghazra/github-readme-stats)
