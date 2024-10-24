@@ -33,6 +33,6 @@ I'm **Lourenco DaSilva**, a passionate aspiring computer scientist focused on **
 
 Feel free to explore my repositories, and let's connect!
 
-[![Lourenco's GitHub stats](https://github-readme-stats.vercel.app/api?username=dslourenco22)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dslourenco22)](https://github.com/anuraghazra/github-readme-stats)
+[![Lourenco's GitHub stats](https://github-readme-stats.vercel.app/api?username=dslourenco22)](https://github.com/anuraghazra/github-readme-stats) 
 
-<img src='https://wakatime.com/share/@dcfc9676-2b77-4473-b982-a2b8b40774ff/6cb29c8a-b342-4a64-a4e4-c2978043a3ce.svg' height = '350' /> 
+<img src='https://wakatime.com/share/@dcfc9676-2b77-4473-b982-a2b8b40774ff/6cb29c8a-b342-4a64-a4e4-c2978043a3ce.svg' height = '350'/> 
