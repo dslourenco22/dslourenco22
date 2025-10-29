@@ -2,6 +2,9 @@
 
 I'm **Lourenco DaSilva**, a passionate aspiring computer scientist focused on **cybersecurity** and **software development**. Welcome to my GitHub profile!
 
+I’m currently pursuing a B.S. in Computer Science (Cybersecurity) at the University of Massachusetts Lowell (Class of 2028), with minors in Criminal Justice and Mathematics.
+My goal is to build secure, adaptive, and intelligent systems that enhance both cybersecurity defense and real-world safety applications.
+
 -  I’m currently working on:
   - A **group project** exploring the latest trends in cybersecurity and secure file transfer.
   - A collaborative **Python Project** that can recognize handwritten text and use the **Google Cloud Translation API** to translate it in real-time. 
