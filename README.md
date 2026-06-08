@@ -1,6 +1,6 @@
 # Lourenco DaSilva
 
-Computer Science undergraduate at the University of Massachusetts Lowell (Class of 2027), minoring in Criminal Justice and Mathematics. Focused on software development and cybersecurity, with a core interest in building secure, adaptive, and intelligent systems.
+Computer Science undergraduate at the University of Massachusetts Amherst (Class of 2027), minoring in Criminal Justice and Mathematics. Focused on software development and cybersecurity, with a core interest in building secure, adaptive, and intelligent systems.
 
 ---
 
